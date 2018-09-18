@@ -1,0 +1,485 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="danelysruque.com" resolutions="1x" timestamp="1537278241916">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="533476331" ref="index:portfolio:contact:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:portfolio:contact:about"/>
+    <file name="index.css" crc="4196323392" ref="index"/>
+    <file name="nomq_index.css" crc="4006717912" ref="index"/>
+    <file name="portfolio.css" crc="16783854" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="296704296" ref="portfolio"/>
+    <file name="contact.css" crc="449760935" ref="contact"/>
+    <file name="nomq_contact.css" crc="3944687302" ref="contact"/>
+    <file name="about.css" crc="3788803216" ref="about"/>
+    <file name="nomq_about.css" crc="3797112292" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="portfolio:about:contact:index"/>
+    <file name="museutils.js" crc="340535759" ref="portfolio:about:contact:index"/>
+    <file name="whatinput.js" crc="86476730" ref="portfolio:about:contact:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="portfolio:about:contact:index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="portfolio:about:contact:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="portfolio:about:contact:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="portfolio:about:contact:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="portfolio:about:contact:index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="portfolio:about:contact:index"/>
+    <file name="require.js" crc="7928878" ref="portfolio:about:contact:index"/>
+    <file name="webpro.js" crc="4059564322" ref="contact:index"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u13658.php" crc="4277952180" ref="contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-1.svg" crc="217373383" seo="true" ref="portfolio:about:contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="untitled-1_poster_.png" crc="4054054091" ref="portfolio"/>
+    <file name="3faces.jpg" crc="484977685" seo="true" ref="portfolio:index">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elf.jpg" crc="3776627679" seo="true" ref="portfolio:index">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiger.jpg" crc="157569554" seo="true" ref="portfolio:index">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brideoffrankjpg 289x210.jpg" crc="4155042132" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hand.jpg" crc="4159350469" seo="true" ref="portfolio:index">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redlipsjpg 287x222.jpg" crc="4110424200" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="medusa.jpg" crc="63670903" seo="true" ref="portfolio:index">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ministerio.jpg" crc="4141339319" seo="true" ref="portfolio:index">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skull.jpg" crc="4176446164" seo="true" ref="portfolio:index">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snapc.png" crc="238551575" seo="true" ref="portfolio:about:contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="link.png" crc="339459977" seo="true" ref="portfolio:about:contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="insta.png" crc="70332295" seo="true" ref="portfolio:about:contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="skulljpg files for digital portfolio.jpg" crc="3976519934" ref="portfolio:about:contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="brideoffrankjpg 281x205.jpg" crc="4134143303" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="redlipsjpg 279x215.jpg" crc="488942328" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tiger138x164.jpg" crc="4118375509" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brideoffrankjpg 153x111.jpg" crc="24145554" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="redlipsjpg 151x117.jpg" crc="3889994656" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="medusa123x161.jpg" crc="4212420428" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tiger132x157.jpg" crc="477670214" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brideoffrankjpg 146x106.jpg" crc="352720061" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="redlipsjpg 145x112.jpg" crc="3999339127" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="medusa117x154.jpg" crc="321644067" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tiger131x156.jpg" crc="3876889241" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="brideoffrankjpg 145x105.jpg" crc="128785824" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="redlipsjpg 144x111.jpg" crc="4175619908" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="medusa116x153.jpg" crc="477854845" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:about:contact:index"/>
+    <file name="brideoffrankjpg 227x165.jpg" crc="3766832068" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brideoffrankjpg 220x160.jpg" crc="3914202339" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brideoffrankjpg 116x85.jpg" crc="4092603405" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brideoffrankjpg 110x80.jpg" crc="58588539" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="brideoffrankjpg .jpg" crc="141118493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dbz.jpg" crc="4059556404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redlipsjpg .jpg" crc="527100949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiger-crop-u19892.jpg" crc="4263462592" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brideoffrankjpg -crop-u19556.jpg" crc="41853362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elf-crop-u19640.jpg" crc="347486754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medusa-crop-u19724.jpg" crc="73274987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redlipsjpg -crop-u19808.jpg" crc="3898394616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3faces-crop-u19355.jpg" crc="3854527457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dbz-crop-u19598.jpg" crc="140774574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-crop-u19682.jpg" crc="475276648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ministerio-crop-u19766.jpg" crc="3965677004" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skull-crop-u19850.jpg" crc="4214289533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="tiger-crop-u198922.jpg" crc="4077582629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brideoffrankjpg -crop-u195562.jpg" crc="4182950667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elf-crop-u196402.jpg" crc="3966101937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medusa-crop-u197242.jpg" crc="4221646906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redlipsjpg -crop-u198082.jpg" crc="191998923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3faces-crop-u193552.jpg" crc="3848885640" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dbz-crop-u195982.jpg" crc="3797358363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-crop-u196822.jpg" crc="3872276469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ministerio-crop-u197662.jpg" crc="134472578" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skull-crop-u198502.jpg" crc="407220133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiger151x180.jpg" crc="4136338172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brideoffrankjpg 240x175.jpg" crc="14104125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dbz240x169.jpg" crc="188074261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medusa137x180.jpg" crc="4069280596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redlipsjpg 233x180.jpg" crc="4172271025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiger-crop-u198923.jpg" crc="240081970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brideoffrankjpg -crop-u195563.jpg" crc="4283083354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elf-crop-u196403.jpg" crc="3980756521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medusa-crop-u197243.jpg" crc="295996620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redlipsjpg -crop-u198083.jpg" crc="21936561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3faces-crop-u193553.jpg" crc="238361887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dbz-crop-u195983.jpg" crc="94032362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-crop-u196823.jpg" crc="390677081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ministerio-crop-u197663.jpg" crc="84713096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skull-crop-u198503.jpg" crc="4247147961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiger150x179.jpg" crc="4086597520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brideoffrankjpg 238x173.jpg" crc="20123785" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dbz238x168.jpg" crc="136396040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medusa136x179.jpg" crc="465509183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redlipsjpg 232x179.jpg" crc="59332695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiger-crop-u198924.jpg" crc="4059392311" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brideoffrankjpg -crop-u195564.jpg" crc="3915400545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elf-crop-u196404.jpg" crc="3793937127" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medusa-crop-u197244.jpg" crc="3767254366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redlipsjpg -crop-u198084.jpg" crc="3808294844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3faces-crop-u193554.jpg" crc="4083396476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dbz-crop-u195984.jpg" crc="257200877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-crop-u196824.jpg" crc="178320218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ministerio-crop-u197664.jpg" crc="405771467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skull-crop-u198504.jpg" crc="4248810754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiger143x171.jpg" crc="258278829" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dbz227x160.jpg" crc="208007442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medusa130x171.jpg" crc="3998448666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redlipsjpg 221x171.jpg" crc="4249348109" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiger-crop-u198925.jpg" crc="4102927662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brideoffrankjpg -crop-u195565.jpg" crc="184780762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elf-crop-u196405.jpg" crc="277608256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medusa-crop-u197245.jpg" crc="3929284136" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redlipsjpg -crop-u198085.jpg" crc="4037754135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3faces-crop-u193555.jpg" crc="3800453416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dbz-crop-u195985.jpg" crc="520811690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-crop-u196825.jpg" crc="4150324160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ministerio-crop-u197665.jpg" crc="3802604587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skull-crop-u198505.jpg" crc="4020583485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="portfolio.html" crc="4010045423" seo="true" mt="1536682847989" redirect="true"/>
+  <file name="about.html" crc="48855345" seo="true" mt="1536682847989" redirect="true"/>
+  <file name="contact.html" crc="4012440016" seo="true" mt="1536682847989" redirect="true"/>
+  <file name="index.html" crc="449202616" seo="true" mt="1536684966372" redirect="true"/>
+</manifest>
